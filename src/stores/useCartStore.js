@@ -8,6 +8,10 @@ export const useCartStore = defineStore('cart', {
     }),
 
     actions: {
+        async fetchData() {
+            let response = await fetch('/json/product.json');
+            this.products = await response.json();
+        },
         addToCart(product) {
             // toast("success adding to cart", { autoClose: 1000, });
             const existingProduct = this.cart.find(cartItem => cartItem.id === product.id);

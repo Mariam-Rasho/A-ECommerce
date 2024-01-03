@@ -23,17 +23,21 @@ import { ref } from "vue";
 const data = useCartStore();
 let productToShow = ref(8);
 let done = ref(false);
+// useCartStore.$onMounted(store => {
+//   store.fetchData();
+// });
 // fetch('/public/json/product.json')
 //   .then(response => response.json())
 //   .then(json =>
 //     data.products = json,
 //   )
 
-(async () => {
-  let response = await fetch('/json/product.json');
-  data.products = await response.json();
-
-});
+// (async () => {
+//   let response = await fetch('/json/product.json');
+//   data.products = await response.json();
+//   console.log(data.products)
+// });
+// console.log(data.products);
 
 function loadMoreProducts() {
   if (productToShow.value >= data.products.length) {
