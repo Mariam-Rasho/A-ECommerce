@@ -48,6 +48,7 @@ let done = ref(false);
 function loadMoreProducts() {
   if (productToShow.value >= data.products.length) {
     done.value = true;
+    console.log(data.products)
     productToShow.value = productToShow.value - 7;
   } else {
     done.value = false;
