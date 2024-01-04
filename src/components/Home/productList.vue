@@ -44,6 +44,9 @@ let done = ref(false);
 //   data.products = await response.json();
 //   console.log(data.products)
 // })();
+fetch('/json/product.json')
+  .then(response => response.json())
+  .then(json => data.products = json)
 
 function loadMoreProducts() {
   if (productToShow.value >= data.products.length) {
