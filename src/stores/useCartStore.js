@@ -3,9 +3,9 @@ import { toast } from 'vue3-toastify';
 import "vue3-toastify/dist/index.css"
 export const useCartStore = defineStore('cart', {
     state: () => ({
-        products: (fetch('/json/product.json')
+        products: Array.from(fetch('/json/product.json')
             .then(response => response.json())
-            .then(json => Array.from(json))),
+            .then(json => products = json)),
         cart: [],
     }),
 
