@@ -3,15 +3,12 @@ import { toast } from 'vue3-toastify';
 import "vue3-toastify/dist/index.css"
 export const useCartStore = defineStore('cart', {
     state: () => ({
-        products: [],
+        products: fetch('/json/product.json')
+            .then(response => response.json()),
         cart: [],
     }),
 
     actions: {
-        // async fetchData() {
-        //     let response = await fetch('/json/product.json');
-        //     this.products = await response.json();
-        // },
         addToCart(product) {
             // toast("success adding to cart", { autoClose: 1000, });
             const existingProduct = this.cart.find(cartItem => cartItem.id === product.id);
