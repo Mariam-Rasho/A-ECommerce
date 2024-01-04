@@ -5,7 +5,7 @@ export const useCartStore = defineStore('cart', {
     state: () => ({
         products: (fetch('/json/product.json')
             .then(response => response.json())
-            .then(json => json)),
+            .then(json => Array.from(json))),
         cart: [],
     }),
 
