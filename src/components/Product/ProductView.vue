@@ -13,7 +13,7 @@
 
 <script setup>
 import ProductCard from '../Home/ProductHome.vue';
-import { ref, computed } from 'vue'
+import { ref, computed } from 'vue';
 import { useCartStore } from '@/stores/useCartStore';
 const store = useCartStore();
 const currentPage = ref(1);
@@ -26,7 +26,6 @@ const displayedProducts = computed(() => {
 });
 
 const totalPages = computed(() => Math.ceil(store.products.length / pageSize));
-
 function updatePage(newPage) {
     currentPage.value = newPage;
 }

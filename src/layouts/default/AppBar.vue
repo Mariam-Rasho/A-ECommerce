@@ -6,8 +6,6 @@
     <v-app-bar-title class="pl-0 ml-0">
       <v-img :width="350" class="logo" src="@/assets/Screenshot__295_-removebg-preview (1).png" cover></v-img>
     </v-app-bar-title>
-
-
     <v-toolbar-items class="hidden-sm-and-down">
       <v-btn v-for="item in menu" class="text-h6 px-2 mx-1 text-purple-darken-4" :key="item.icon"><router-link
           :to="item.path">{{
@@ -40,12 +38,14 @@
         <v-icon color='brown-darken-3'>mdi-login</v-icon>
       </v-btn>
       <v-btn icon to="Cart">
-
         <v-badge location="right top" :content="totalCount" color="deep-purple-lighten-2"><v-icon
             color='deep-purple-lighten-1'>mdi-cart</v-icon></v-badge>
       </v-btn>
       <v-btn icon to="Favorite">
         <v-icon color="red-darken-4">mdi-heart</v-icon>
+      </v-btn>
+      <v-btn icon>
+        <v-icon color="brown"> mdi-abjad-arabic</v-icon>
       </v-btn>
       <v-btn icon @click="toggleTheme()">
         <v-icon color="brown-lighten-2"> mdi-brightness-4</v-icon>
