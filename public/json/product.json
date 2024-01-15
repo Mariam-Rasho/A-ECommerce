@@ -78,7 +78,7 @@
         "category": "Skirt suit",
         "season": "Winter",
         "Department": "Girl",
-        "img": "/images/clothing(girl)/winter/jacket1.jpg",
+        "img": "/images/clothing(girl)/winter/skirt3.jpg",
         "price": "$40.00",
         "count": "0"
     },
@@ -210,7 +210,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/winter/photo_2023-11-02_23-06-47.jpg",
+        "img": "/images/clothing(girl)/winter/photo_2023-11-02_23-06-47.jpg",
         "price": "$39.88",
         "count": "0"
     },
@@ -222,7 +222,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/winter/photo_2023-11-02_23-06-58.jpg",
+        "img": "/images/clothing(girl)/winter/photo_2023-11-02_23-06-58.jpg",
         "price": "$55.00",
         "count": "0"
     },
@@ -234,7 +234,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/winter/photo_2023-11-02_23-07-05.jpg",
+        "img": "/images/clothing(girl)/winter/photo_2023-11-02_23-07-05.jpg",
         "price": "$40.58",
         "count": "0"
     },
@@ -246,7 +246,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/winter/photo_2023-11-02_23-07-11.jpg",
+        "img": "/images/clothing(girl)/winter/photo_2023-11-02_23-07-11.jpg",
         "price": "$56.30",
         "count": "0"
     },
@@ -258,7 +258,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/winter/photo_2023-11-02_23-07-19.jpg",
+        "img": "/images/clothing(girl)/winter/photo_2023-11-02_23-07-19.jpg",
         "price": "$48.23",
         "count": "0"
     },
@@ -270,7 +270,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/winter/photo_2023-11-02_23-16-38.jpg",
+        "img": "/images/clothing(girl)/winter/photo_2023-11-02_23-16-38.jpg",
         "price": "$50.66",
         "count": "0"
     },
@@ -282,7 +282,7 @@
         "category": "Jacket",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-07_00-05-14.jpg",
+        "img": "/images/boys/winter/photo_2023-11-07_00-05-14.jpg",
         "price": "$60.50",
         "count": "0"
     },
@@ -294,7 +294,7 @@
         "category": "Jacket",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-07_00-05-10.jpg",
+        "img": "/images/boys/winter/photo_2023-11-07_00-05-10.jpg",
         "price": "$30.00",
         "count": "0"
     },
@@ -306,7 +306,7 @@
         "category": "Jacket",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-06_23-59-42.jpg",
+        "img": "/images/boys/winter/photo_2023-11-06_23-59-42.jpg",
         "price": "$40.00",
         "count": "0"
     },
@@ -318,7 +318,7 @@
         "category": "Jacket",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-06_23-59-24.jpg",
+        "img": "/images/boys/winter/photo_2023-11-06_23-59-24.jpg",
         "price": "$45.00",
         "count": "0"
     },
@@ -330,7 +330,7 @@
         "category": "Jacket",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-06_23-58-14.jpg",
+        "img": "/images/boys/winter/photo_2023-11-06_23-58-14.jpg",
         "price": "$55.00",
         "count": "0"
     },
@@ -342,7 +342,7 @@
         "category": "Jacket",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-06_23-59-10.jpg",
+        "img": "/images/boys/winter/photo_2023-11-06_23-59-10.jpg",
         "price": "$35.00",
         "count": "0"
     },
@@ -354,7 +354,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-02_23-08-07.jpg",
+        "img": "/images/boys/winter/photo_2023-11-02_23-08-07.jpg",
         "price": "$29.07",
         "count": "0"
     },
@@ -366,7 +366,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-02_23-08-16.jpg",
+        "img": "/images/boys/winter/photo_2023-11-02_23-08-16.jpg",
         "price": "$29.57",
         "count": "0"
     },
@@ -378,7 +378,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-02_23-08-22.jpg",
+        "img": "/images/boys/winter/photo_2023-11-02_23-08-22.jpg",
         "price": "$30.83",
         "count": "0"
     },
@@ -390,7 +390,7 @@
         "category": "Sweater",
         "season": "Winter",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/winter/photo_2023-11-02_23-09-05.jpg",
+        "img": "/images/boys/winter/photo_2023-11-02_23-09-05.jpg",
         "price": "$39.83",
         "count": "0"
     },
@@ -402,7 +402,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-27-37.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-27-37.jpg",
         "price": "$20.83",
         "count": "0"
     },
@@ -414,7 +414,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-27-43.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-27-43.jpg",
         "price": "$20.03",
         "count": "0"
     },
@@ -426,7 +426,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-28-03.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-28-03.jpg",
         "price": "$20.00",
         "count": "0"
     },
@@ -438,7 +438,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-30-17.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-30-17.jpg",
         "price": "$25.50",
         "count": "0"
     },
@@ -450,7 +450,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-30-26.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-30-26.jpg",
         "price": "$30.50",
         "count": "0"
     },
@@ -462,7 +462,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-30-31.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-30-31.jpg",
         "price": "$25.50",
         "count": "0"
     },
@@ -474,7 +474,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-30-36.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-30-36.jpg",
         "price": "$27.05",
         "count": "0"
     },
@@ -486,7 +486,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-30-55.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-30-55.jpg",
         "price": "$30.50",
         "count": "0"
     },
@@ -498,7 +498,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-32-43.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-32-43.jpg",
         "price": "$40.50",
         "count": "0"
     },
@@ -510,7 +510,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Boy",
-        "img": "/src/assets/images/boys/photo_2023-11-02_22-32-53.jpg",
+        "img": "/images/boys/photo_2023-11-02_22-32-53.jpg",
         "price": "$35.00",
         "count": "0"
     },
@@ -522,7 +522,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Girl",
-        "img": "/src/assets/images/clothing(girl)/summer/photo_2023-11-02_23-14-43.jpg",
+        "img": "/images/clothing(girl)/summer/photo_2023-11-02_23-14-43.jpg",
         "price": "$20.50",
         "count": "0"
     },
@@ -533,7 +533,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Girl",
-        "img": "/src/assets/images/clothing(girl)/summer/photo_2023-11-02_23-14-52.jpg",
+        "img": "/images/clothing(girl)/summer/photo_2023-11-02_23-14-52.jpg",
         "price": "$20.05",
         "count": "0"
     },
@@ -545,7 +545,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Girl",
-        "img": "/src/assets/images/clothing(girl)/summer/photo_2023-11-02_23-14-58.jpg",
+        "img": "/images/clothing(girl)/summer/photo_2023-11-02_23-14-58.jpg",
         "price": "$20.40",
         "count": "0"
     },
@@ -557,7 +557,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Girl",
-        "img": "/src/assets/images/clothing(girl)/summer/photo_2023-11-02_23-15-04.jpg",
+        "img": "/images/clothing(girl)/summer/photo_2023-11-02_23-15-04.jpg",
         "price": "$20.00",
         "count": "0"
     },
@@ -569,7 +569,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Girl",
-        "img": "/src/assets/images/clothing(girl)/summer/photo_2023-11-02_23-15-42.jpg",
+        "img": "/images/clothing(girl)/summer/photo_2023-11-02_23-15-42.jpg",
         "price": "$20.99",
         "count": "0"
     },
@@ -581,7 +581,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Girl",
-        "img": "/src/assets/images/clothing(girl)/summer/photo_2023-11-02_23-15-48.jpg",
+        "img": "/images/clothing(girl)/summer/photo_2023-11-02_23-15-48.jpg",
         "price": "$27.03",
         "count": "0"
     },
@@ -593,7 +593,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Girl",
-        "img": "/src/assets/images/clothing(girl)/summer/photo_2023-11-02_23-15-59.jpg",
+        "img": "/images/clothing(girl)/summer/photo_2023-11-02_23-15-59.jpg",
         "price": "$20.00",
         "count": "0"
     },
@@ -605,7 +605,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Girl",
-        "img": "/src/assets/images/clothing(girl)/summer/photo_2023-11-02_23-16-04.jpg",
+        "img": "/images/clothing(girl)/summer/photo_2023-11-02_23-16-04.jpg",
         "price": "$20.00",
         "count": "0"
     },
@@ -617,7 +617,7 @@
         "category": "T-Shirt",
         "season": "Summer",
         "Department": "Girl",
-        "img": "/src/assets/images/clothing(girl)/summer/photo_2023-11-02_23-16-21.jpg",
+        "img": "/images/clothing(girl)/summer/photo_2023-11-02_23-16-21.jpg",
         "price": "$40.00",
         "count": "0"
     },
@@ -629,7 +629,7 @@
         "category": "Dress",
         "season": "Summer",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/dress/dress-summer7.jpg",
+        "img": "/images/clothing(girl)/dress/dress-summer7.jpg",
         "price": "$70.00",
         "count": "0"
     },
@@ -641,7 +641,7 @@
         "category": "Dress",
         "season": "Summer",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/dress/dress-summer1.jpg",
+        "img": "/images/clothing(girl)/dress/dress-summer1.jpg",
         "price": "$99.01",
         "count": "0"
     },
@@ -653,7 +653,7 @@
         "category": "Dress",
         "season": "Summer",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/dress/dress-summer2.jpg",
+        "img": "/images/clothing(girl)/dress/dress-summer2.jpg",
         "price": "$90.00",
         "count": "0"
     },
@@ -665,7 +665,7 @@
         "category": "Dress",
         "season": "Summer",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/dress/dress-summer3.jpg",
+        "img": "/images/clothing(girl)/dress/dress-summer3.jpg",
         "price": "$99.50",
         "count": "0"
     },
@@ -677,7 +677,7 @@
         "category": "Dress",
         "season": "Summer",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/dress/dress-summer4.jpg",
+        "img": "/images/clothing(girl)/dress/dress-summer4.jpg",
         "price": "$60.00",
         "count": "0"
     },
@@ -689,7 +689,7 @@
         "category": "Dress",
         "season": "Summer",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/dress/dress-summer5.jpg",
+        "img": "/images/clothing(girl)/dress/dress-summer5.jpg",
         "price": "$65.00",
         "count": "0"
     },
@@ -701,7 +701,7 @@
         "category": "Dress",
         "season": "Summer",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/dress/dress-summer6.jpg",
+        "img": "/images/clothing(girl)/dress/dress-summer6.jpg",
         "price": "$50.73",
         "count": "0"
     },
@@ -713,7 +713,7 @@
         "category": "Dress",
         "season": "Summer",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/dress/dress-summer8.jpg",
+        "img": "/images/clothing(girl)/dress/dress-summer8.jpg",
         "price": "$60.05",
         "count": "0"
     },
@@ -725,7 +725,7 @@
         "category": "Dress",
         "season": "Summer",
         "Department": "Girl",
-        "img": "../src/assets/images/clothing(girl)/dress/dress-summer9.jpg",
+        "img": "/images/clothing(girl)/dress/dress-summer9.jpg",
         "price": "$75.40",
         "count": "0"
     },
