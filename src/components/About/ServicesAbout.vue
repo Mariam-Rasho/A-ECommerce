@@ -23,8 +23,8 @@ export default {
   data() {
     return {
       services: [
-        { title: "24/7 CUSTOMER SERVICE", subtitle: "Service Support 24/7", img: "/src/assets/images/photo_2023-11-05_17-22-42.jpg" }, { title: "FREE SHIPPING WORLDWIDE", subtitle: "Free shipping worldwide", img: "/src/assets/images/photo_2023-11-05_17-41-18.jpg" },
-        { title: "MONEY BACK GUARANTEE!", subtitle: "100% Money Back - 30 Days", img: "/src/assets/images/photo_2023-11-05_17-34-58.jpg" },
+        { title: "24/7 CUSTOMER SERVICE", subtitle: "Service Support 24/7", img: "/images/photo_2023-11-05_17-22-42.jpg" }, { title: "FREE SHIPPING WORLDWIDE", subtitle: "Free shipping worldwide", img: "/images/photo_2023-11-05_17-41-18.jpg" },
+        { title: "MONEY BACK GUARANTEE!", subtitle: "100% Money Back - 30 Days", img: "/images/photo_2023-11-05_17-34-58.jpg" },
 
       ]
     }
